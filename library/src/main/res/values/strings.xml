@@ -1,0 +1,7 @@
+<resources>
+    <string name="srv_awful">Awful</string>
+    <string name="srv_meh">Meh</string>
+    <string name="srv_good">Good</string>
+    <string name="srv_amazing">Amazing</string>
+    <string name="srv_no_rating">No Rating</string>
+</resources>
